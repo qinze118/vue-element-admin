@@ -150,6 +150,7 @@ export const asyncRouterMap = [
       { path: 'keyboard', component: () => import('@/views/charts/keyboard'), name: 'keyboardChart', meta: { title: 'keyboardChart', noCache: true }},
       { path: 'line', component: () => import('@/views/charts/line'), name: 'lineChart', meta: { title: 'lineChart', noCache: true }},
       { path: 'mixchart', component: () => import('@/views/charts/mixChart'), name: 'mixChart', meta: { title: 'mixChart', noCache: true }}
+      { path: 'pingmap', componet: _import('charts/pingMap'), name: 'pingMapChart', meta: { title: 'pingMapChart', noCache: true }}
     ]
   },
 
