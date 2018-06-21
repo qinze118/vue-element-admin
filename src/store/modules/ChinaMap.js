@@ -384,7 +384,7 @@ const ChinaMap = {
   getters: {},
   actions: {
     fetchHeatChinaRealData({ state, commit }, chartsObj) {
-      axios.get('static/data/heatChinaRealData.json')
+      axios.get('static/heatChinaRealData.json')
         .then(
           (res) => {
             const data = res.data
