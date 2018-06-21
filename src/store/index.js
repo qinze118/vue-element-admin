@@ -15,7 +15,8 @@ const store = new Vuex.Store({
     errorLog,
     permission,
     tagsView,
-    user
+    user,
+    ChinaMap
   },
   getters
 })
