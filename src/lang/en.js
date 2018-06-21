@@ -27,6 +27,7 @@ export default {
     keyboardChart: 'Keyboard Chart',
     lineChart: 'Line Chart',
     mixChart: 'Mix Chart',
+    pingMapChart: 'pingMap Chart',
     example: 'Example',
     Table: 'Table',
     dynamicTable: 'Dynamic Table',
