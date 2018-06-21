@@ -154,7 +154,7 @@
               // 使用地理坐标系，通过 geoIndex 指定相应的地理坐标系组件
               coordinateSystem: 'geo',
               data: [],
-              // 标记的大小
+              // 标记的大d小
               symbolSize: 12,
               showEffectOn: 'render',
               rippleEffect: {
