@@ -27,6 +27,7 @@ export default {
     keyboardChart: '键盘图表',
     lineChart: '折线图',
     mixChart: '混合图表',
+    pingMapChart: '中国地图',
     example: '综合实例',
     Table: 'Table',
     dynamicTable: '动态Table',
